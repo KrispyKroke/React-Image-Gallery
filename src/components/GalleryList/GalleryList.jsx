@@ -9,7 +9,7 @@ function GalleryList({galleryList}) {
             {galleryList.map((picture) => {
                 const galleryItem = picture;
                 return (
-                <GalleryItem key={galleryItem.id} galleryItem={galleryItem} />
+                    <GalleryItem key={galleryItem.id} galleryItem={galleryItem} />
                 );
             })}
         </>

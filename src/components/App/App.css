@@ -9,6 +9,17 @@
   margin-bottom: 1em;
 }
 
+img {
+  display: inline-block;
+  margin: 30px;
+}
+
+.picture {
+  display: inline-block;
+}
+
+
+
 .App-title {
   font-size: 1.5em;
 }
