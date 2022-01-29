@@ -7,15 +7,16 @@ import GalleryList from '../GalleryList/GalleryList';
 function App() {
 
     const [galleryList, setGalleryList] = useState([]);
-
+    // This acts as our onReady function for React. Will run the fetchList function when our client and server are booted up.
     useEffect(() => {
       fetchList();
     }, []);
 
-
+    // Performs a GET request to the backend to populate our galleryList local state with the 
+    // items from the gallery stored on the back-end.
     const fetchList = () => {
       axios.get('/gallery').then((response) => {
-        setGalleryList(response);
+        setGalleryList(response.data);
       }).catch((err) => {
         alert(err);
       });
