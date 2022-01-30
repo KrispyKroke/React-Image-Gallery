@@ -15,6 +15,9 @@ img {
   padding: 0px;
 }
 
+p {
+  padding: 10px;
+}
 
 .picture {
   display: inline-block;
