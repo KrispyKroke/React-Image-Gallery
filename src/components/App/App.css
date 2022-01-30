@@ -12,7 +12,9 @@
 img {
   display: inline-block;
   margin: 30px;
+  padding: 0px;
 }
+
 
 .picture {
   display: inline-block;
