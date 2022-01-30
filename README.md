@@ -1,9 +1,13 @@
-# Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+# React Gallery
 
 ## Description
 
-Your project description goes here. What problem did you solve? How did you solve it?
+For this project, I created a web application which displayed a gallery of images in the browser.  Each image had a description which could be viewed if you clicked on the image.  You could see the image again by clicking on the description text for each image.  There were buttons below each image which could be clicked to increase the 'likes' for each image.  Text below each button showed the number of likes for each image.
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+I broke the project into three components: the App, The Gallery List and the Gallery Item components.  
+
+The App was responsible for gathering up the images from the gallery and storing them in local state.  
+
+The Gallery List then looped over the images and created a Gallery Item component for each picture.  
+
+Lastly, the Gallery Item component was responsible for displaying the information for each picture, as well as keeping track of likes for each picture and the toggling between descriptions and pictures on click of each item.
