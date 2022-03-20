@@ -30,3 +30,8 @@ After you have 'liked' a few images, the app will look something like this.
 
 <img width="1204" alt="Screen Shot 2022-03-20 at 2 09 59 PM" src="https://user-images.githubusercontent.com/91631646/159179044-21f6a646-dccd-4fcb-9c34-dad9e4c86ab6.png">
 
+## Images with Descriptions
+
+If you click on any of the images, you can see a description for those images.  If you click on the descriptions, the images will reappear.
+
+<img width="1218" alt="Screen Shot 2022-03-20 at 2 10 30 PM" src="https://user-images.githubusercontent.com/91631646/159179127-044fcd81-41d6-4050-acc6-8b9f1e4b91e0.png">
