@@ -24,4 +24,9 @@ This is how the app will look when you first boot it up.  You will see 5 images 
 
 <img width="1010" alt="Screen Shot 2022-03-20 at 2 17 04 PM" src="https://user-images.githubusercontent.com/91631646/159178994-8b6e70be-1dae-43cf-accb-5a902c84d2e6.png">
 
+## Images with Likes
+
+After you have 'liked' a few images, the app will look something like this.
+
+<img width="1204" alt="Screen Shot 2022-03-20 at 2 09 59 PM" src="https://user-images.githubusercontent.com/91631646/159179044-21f6a646-dccd-4fcb-9c34-dad9e4c86ab6.png">
 
