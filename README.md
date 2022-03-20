@@ -1,6 +1,6 @@
 # React Gallery
 
-# Description
+## Description
 
 Duration: 2-3 days
 
