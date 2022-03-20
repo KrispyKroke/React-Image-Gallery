@@ -20,4 +20,6 @@ Lastly, the Gallery Item component was responsible for displaying the informatio
 
 This is how the app will look when you first boot it up.  You will see 5 images with the ability to 'like' them.
 
+<img width="1219" alt="Screen Shot 2022-03-20 at 2 09 13 PM" src="https://user-images.githubusercontent.com/91631646/159178848-fda26419-2f2c-4c35-956d-d57d4bff165c.png">
+
 
